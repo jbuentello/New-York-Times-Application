@@ -1,0 +1,19 @@
+body {
+    background: white;
+}
+
+.containerMain{
+    border: 5px solid black;
+    margin-left: 25px; 
+    margin-right: 25px;
+    height: 700px;
+}
+
+h1 {
+    text-align: center;
+    border: 5px solid black;
+    background: blue;
+    color: white;
+    
+
+}
